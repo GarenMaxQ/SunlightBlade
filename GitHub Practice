@@ -2,11 +2,24 @@
 using namespace std;
 int main()
 {
-    /*
-    float PHP, CND;
+    */float PHP, CND;
     cout << "Enter PHP: ";
     cin >> PHP;
 
     CND = PHP * 0.024;
-    cout << "The CND equivalent is: " << CND;
+    /*cout << "The CND equivalent is: " << CND;
+
+string first, last, middle;
+
+   cout << "Enter first name: ";
+    cin >> first;
+    cout << "Enter last name: ";
+    cin >> last;
+    cout << "Enter middle name: ";
+    cin >> middle;
+
+    cout << first << ", " << middle << ", " << last  << endl;
+    cout << last << ", " << first << ", " << middle  << endl;
+    cout << last << ", " << middle << ", " << first  << endl;
+
 }
