@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    /*
+    float PHP, CND;
+    cout << "Enter PHP: ";
+    cin >> PHP;
+
+    CND = PHP * 0.024;
+    cout << "The CND equivalent is: " << CND;
+}
